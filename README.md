@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/captain-fatbeard/setup-typescript-eslint-prettier/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-GNU-blue.svg)](https://github.com/captain-fatbeard/setup-typescript-eslint-prettier/blob/main/LICENSE)
 
 </div>
 
