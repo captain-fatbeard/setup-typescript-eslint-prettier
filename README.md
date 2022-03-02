@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="uml.png?raw=true" alt="assignment-backend"></a>
-</p>
-
 <h1 align="center">Typescript ESlint and formater</h1>
 
 <div align="center">
